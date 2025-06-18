@@ -1,0 +1,36 @@
+.image-uploader-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+
+.choose-btn,
+.upload-btn {
+  padding: 10px 20px;
+  margin: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.choose-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+.upload-btn {
+  background-color: #28a745;
+  color: white;
+}
+
+.preview-container {
+  margin-top: 20px;
+}
+
+.preview-image {
+  max-width: 200px;
+  max-height: 200px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
